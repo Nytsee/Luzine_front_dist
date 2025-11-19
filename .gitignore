@@ -7,7 +7,6 @@ node_modules/
 bower_components/
 
 # BUILD / DIST FILES
-dist/
 build/
 .cache/
 .tmp/
