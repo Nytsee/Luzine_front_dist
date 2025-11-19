@@ -1,0 +1,50 @@
+# OS SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# DEPENDENCIES
+node_modules/
+bower_components/
+
+# BUILD / DIST FILES
+dist/
+build/
+.cache/
+.tmp/
+*.log
+
+# ENV / CONFIG
+.env
+.env.local
+.env.*.local
+
+# IDE FILES
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# COMPILERS OUTPUT
+*.map
+
+# TEMP FILES
+*.tmp
+*.temp
+
+# ARCHIVES (ZIP/GZ/RAR/TAR) — you asked: NO ZIP
+*.zip
+*.gz
+*.tar
+*.tgz
+*.rar
+
+# IMAGES YOU DON'T WANT IN GIT
+*.psd      # removed by your request (ignored)
+*.ai
+*.eps
+*.sketch
+
+# MACOS + FOLDERS
+Icon?
+.Spotlight-V100
+.Trashes
