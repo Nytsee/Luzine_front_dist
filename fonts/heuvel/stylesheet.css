@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Heuvel Grotesk DEMO SemBd';
-    src: url('HeuvelGroteskDEMO-SemiBold.woff2') format('woff2'),
-        url('HeuvelGroteskDEMO-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-

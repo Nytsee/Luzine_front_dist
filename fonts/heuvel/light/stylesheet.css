@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Heuvel Grotesk DEMO';
+    src: url('fonts/HeuvelGroteskDEMO-Light.eot');
+    src: url('fonts/HeuvelGroteskDEMO-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HeuvelGroteskDEMO-Light.woff2') format('woff2'),
+        url('fonts/HeuvelGroteskDEMO-Light.woff') format('woff'),
+        url('fonts/HeuvelGroteskDEMO-Light.ttf') format('truetype'),
+        url('fonts/HeuvelGroteskDEMO-Light.svg#HeuvelGroteskDEMO-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
